@@ -1,0 +1,1 @@
+C++ tool for identifying all candidate keys in relational database schemas using functional dependency analysis, closure computation, and optimized search with duplicate elimination and minimality pruning.
