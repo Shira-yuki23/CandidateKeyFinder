@@ -1,0 +1,5 @@
+Total Candidate Keys: 4
+CK1: D
+CK2: A
+CK3: B
+CK4: C
